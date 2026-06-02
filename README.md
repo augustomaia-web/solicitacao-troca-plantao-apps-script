@@ -27,3 +27,14 @@ RESULTADOS:
 - Melhor rastreabilidade.
 - Maior controle para coordenação e RH.
 - Agilidade no processo.
+
+# Sistema de Troca de Plantão
+
+## Painel Principal
+
+![Painel](screenshots/Screenshot_painel_de_trocas.png)
+
+## Apps Script
+
+![Apps Script](screenshots/Screenshot_AppScript.png)
+![Apps Script](screenshots/Screenshot_painel_de_troca_camp_solic_troca.png)
