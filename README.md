@@ -3,10 +3,10 @@ Projeto desenvolvido para automatizar o processo de solicitação e controle de 
 A solução foi construída utilizando Google Apps Script, JavaScript, Google Sheets e apoio com auxílio de ferramentas de IA (Gemini) 
 para acelerar o desenvolvimento e a documentação.
 
-# Problema
+PROBLEMA
 Processo manual de solicitação de troca de plantão utilizando formulários impressos.
 
-# Solução
+SOLUÇÃO
 Sistema digital desenvolvido em Google Apps Script para registrar, consultar, aprovar e acompanhar trocas de plantão da equipe de enfermagem.
 
 - Funcionalidades
