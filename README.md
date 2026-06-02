@@ -7,7 +7,7 @@ PROBLEMA: Processo manual de solicitação de troca de plantão utilizando formu
 
 SOLUÇÃO: Sistema digital desenvolvido em Google Apps Script para registrar, consultar, aprovar e acompanhar trocas de plantão da equipe de enfermagem.
 
-- Funcionalidades
+FUNCIONALIDADES:
 - Solicitação eletrônica de troca.
 - Consulta por mês e ano.
 - Filtro de registros.
@@ -17,6 +17,12 @@ SOLUÇÃO: Sistema digital desenvolvido em Google Apps Script para registrar, co
 - Backup das solicitações.
 - Limpeza e organização de consultas.
 - Resultados
+- Redução do uso de papel.
+- Melhor rastreabilidade.
+- Maior controle para coordenação e RH.
+- Agilidade no processo.
+
+RESULTADOS: 
 - Redução do uso de papel.
 - Melhor rastreabilidade.
 - Maior controle para coordenação e RH.
